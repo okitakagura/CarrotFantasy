@@ -1,0 +1,92 @@
+<Solution>
+  <PropertyGroup Name="mainscene" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="mainsence">
+          <Image Name="18183_normal.png" />
+          <Image Name="BG1-h.png" />
+          <Image Name="bird.png" />
+          <Image Name="btn_adventure_normal_CN.png" />
+          <Image Name="btn_adventure_pressed_CN.png" />
+          <Image Name="btn_boss_normal_CN.png" />
+          <Image Name="btn_boss_pressed_CN.png" />
+          <Image Name="btn_nest_normal_CN.png" />
+          <Image Name="btn_nest_pressed_CN.png" />
+          <Image Name="btn_setting_normal.png" />
+          <Image Name="btn_setting_pressed.png" />
+          <Image Name="carrot.png" />
+          <Image Name="cloud1.png" />
+          <Image Name="cloud2.png" />
+          <Image Name="leaf-1.png" />
+          <Image Name="leaf-2.png" />
+          <Image Name="leaf-3.png" />
+          <Image Name="locked.png" />
+          <Image Name="mainbg.png" />
+          <Image Name="mainbg_CN.png" />
+
+        </Folder>
+        <Folder Name="setting">
+          <Image Name="achievements_normal_CN.png" />
+          <Image Name="achievements_pressed_CN.png" />
+          <Image Name="bgmusic_off_CN.png" />
+          <Image Name="bgmusic_on_CN.png" />
+          <Image Name="credits_bg.png" />
+          <Image Name="credits_normal_CN.png" />
+          <Image Name="credits_selected_CN.png" />
+          <Image Name="gamecenter_off_CN.png" />
+          <Image Name="gamecenter_on_CN.png" />
+          <Image Name="language_normal_CN.png" />
+          <Image Name="language_pressed_CN.png" />
+          <Image Name="leaderborad_normal_CN.png" />
+          <Image Name="leaderborad_pressed_CN.png" />
+          <Image Name="options_normal_CN.png" />
+          <Image Name="options_selected_CN.png" />
+          <Image Name="resetgame_normal_CN.png" />
+          <Image Name="resetgame_pressed_CN.png" />
+          <Image Name="setting_bg.png" />
+          <Image Name="setting_bg_CN.png" />
+          <Image Name="setting_home_normal.png" />
+          <Image Name="setting_home_pressed.png" />
+          <Image Name="soundfx_off_CN.png" />
+          <Image Name="soundfx_on_CN.png" />
+          <Image Name="statistics_bg.png" />
+          <Image Name="statistics_bg_CN.png" />
+          <Image Name="statistics_normal_CN.png" />
+          <Image Name="statistics_selected_CN.png" />
+        </Folder>
+        <TTF Name="Marker Felt.ttf" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Project Name="Scene1.csd" Type="Scene" />
+        <Project Name="selectguanka.csd" Type="Scene" />
+        <Folder Name="stages_theme1">
+          <Image Name="ss_cloud.png" />
+          <Image Name="ss_map01.png" />
+          <Image Name="ss_map02.png" />
+          <Image Name="ss_map03.png" />
+          <Image Name="ss_map04.png" />
+          <Image Name="ss_map05.png" />
+          <Image Name="ss_map06.png" />
+          <Image Name="ss_map07.png" />
+          <Image Name="ss_map08.png" />
+          <Image Name="ss_map09.png" />
+          <Image Name="ss_map10.png" />
+          <Image Name="ss_map11.png" />
+          <Image Name="ss_map12.png" />
+          <Image Name="ss_towers_01.png" />
+          <Image Name="ss_towers_02.png" />
+          <Image Name="ss_towers_03.png" />
+          <Image Name="ss_towers_04.png" />
+          <Image Name="ss_towers_05.png" />
+          <Image Name="ss_towers_06.png" />
+          <Image Name="ss_towers_07.png" />
+          <Image Name="ss_towers_08.png" />
+          <Image Name="ss_towers_09.png" />
+          <Image Name="ss_towers_10.png" />
+          <Image Name="ss_towers_11.png" />
+          <Image Name="ss_towers_12.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

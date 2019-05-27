@@ -1,0 +1,517 @@
+{
+  "ID": "0206145b-9937-4d53-9661-5bbae2a18c42",
+  "Version": "2.3.4",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg_window.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 347,
+            "Scale9Height": 378,
+            "AnchorPoint": {
+              "ScaleX": 0.6739,
+              "ScaleY": 0.2391
+            },
+            "Position": {
+              "X": 284.4129,
+              "Y": 92.3213
+            },
+            "Scale": {
+              "ScaleX": 1.1151,
+              "ScaleY": 0.8725
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2963,
+              "Y": 0.1443
+            },
+            "PreSize": {
+              "X": 0.3615,
+              "Y": 0.5906
+            },
+            "LeftMargin": 50.5696,
+            "RightMargin": 562.4304,
+            "TopMargin": 260.0585,
+            "BottomMargin": 1.9415,
+            "Tag": 3,
+            "ActionTag": 587838190,
+            "Size": {
+              "X": 347.0,
+              "Y": 378.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 100,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "登录",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.3201
+            },
+            "Position": {
+              "X": 356.5867,
+              "Y": 280.4411
+            },
+            "Scale": {
+              "ScaleX": 0.3567,
+              "ScaleY": 0.3394
+            },
+            "CColor": {
+              "R": 225,
+              "G": 13,
+              "B": 13
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3714,
+              "Y": 0.4382
+            },
+            "PreSize": {
+              "X": 0.5208,
+              "Y": 0.3906
+            },
+            "LeftMargin": -143.4133,
+            "RightMargin": 603.4133,
+            "TopMargin": 189.5839,
+            "BottomMargin": 200.4161,
+            "Tag": 5,
+            "ActionTag": 846387009,
+            "Size": {
+              "X": 500.0,
+              "Y": 250.0
+            },
+            "Name": "TextField_2",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 100,
+            "LabelText": "账号",
+            "OutlineColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.3827,
+              "ScaleY": 0.6749
+            },
+            "Position": {
+              "X": 127.9997,
+              "Y": 186.9997
+            },
+            "Scale": {
+              "ScaleX": 0.2077,
+              "ScaleY": 0.2162
+            },
+            "CColor": {
+              "R": 224,
+              "G": 18,
+              "B": 18
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1333,
+              "Y": 0.2922
+            },
+            "PreSize": {
+              "X": 0.5208,
+              "Y": 0.3906
+            },
+            "LeftMargin": -63.3415,
+            "RightMargin": 523.3414,
+            "TopMargin": 371.7216,
+            "BottomMargin": 18.2784,
+            "Tag": 7,
+            "ActionTag": 2044968781,
+            "Size": {
+              "X": 500.0,
+              "Y": 250.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 964.2708,
+              "Y": 440.6771
+            },
+            "Scale": {
+              "ScaleX": 5.36,
+              "ScaleY": 0.48
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.0044,
+              "Y": 0.6886
+            },
+            "PreSize": {
+              "X": 0.2604,
+              "Y": 0.3906
+            },
+            "LeftMargin": 839.2708,
+            "RightMargin": -129.2708,
+            "TopMargin": 74.3229,
+            "BottomMargin": 315.6771,
+            "Tag": 8,
+            "ActionTag": 1049833166,
+            "Size": {
+              "X": 250.0,
+              "Y": 250.0
+            },
+            "Name": "TextField_3",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 72,
+            "ButtonText": "登录",
+            "TextColor": {
+              "R": 70,
+              "G": 65,
+              "B": 65
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "btn_press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btn_normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 239,
+            "Scale9Height": 123,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0001,
+              "Y": 67.0005
+            },
+            "Scale": {
+              "ScaleX": 0.3123,
+              "ScaleY": 0.2799
+            },
+            "RotationSkewX": 0.456,
+            "RotationSkewY": 0.4984,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1333,
+              "Y": 0.1047
+            },
+            "PreSize": {
+              "X": 0.2802,
+              "Y": 0.2266
+            },
+            "LeftMargin": -6.4999,
+            "RightMargin": 697.4999,
+            "TopMargin": 500.4995,
+            "BottomMargin": -5.4995,
+            "Tag": 7,
+            "ActionTag": -876768865,
+            "Size": {
+              "X": 269.0,
+              "Y": 145.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 72,
+            "ButtonText": "注销",
+            "TextColor": {
+              "R": 70,
+              "G": 65,
+              "B": 65
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "btn_press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btn_normal1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 239,
+            "Scale9Height": 123,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.4722
+            },
+            "Position": {
+              "X": 293.0001,
+              "Y": 64.0
+            },
+            "Scale": {
+              "ScaleX": 0.3011,
+              "ScaleY": 0.2813
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3052,
+              "Y": 0.1
+            },
+            "PreSize": {
+              "X": 0.2802,
+              "Y": 0.2266
+            },
+            "LeftMargin": 158.5001,
+            "RightMargin": 532.4999,
+            "TopMargin": 499.4722,
+            "BottomMargin": -4.4722,
+            "Tag": 8,
+            "ActionTag": 887782810,
+            "Size": {
+              "X": 269.0,
+              "Y": 145.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "账号",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 238.9997,
+              "Y": 191.9998
+            },
+            "Scale": {
+              "ScaleX": 1.72,
+              "ScaleY": 1.1
+            },
+            "CColor": {
+              "R": 216,
+              "G": 30,
+              "B": 30
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.249,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0312
+            },
+            "LeftMargin": 188.9997,
+            "RightMargin": 671.0002,
+            "TopMargin": 438.0002,
+            "BottomMargin": 181.9998,
+            "Tag": 6,
+            "ActionTag": 902873740,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "TextField_1",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "密码",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.6837,
+              "ScaleY": 0.5044
+            },
+            "Position": {
+              "X": 113.0,
+              "Y": 146.0
+            },
+            "Scale": {
+              "ScaleX": 0.4165,
+              "ScaleY": 0.4484
+            },
+            "CColor": {
+              "R": 234,
+              "G": 24,
+              "B": 24
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1177,
+              "Y": 0.2281
+            },
+            "PreSize": {
+              "X": 0.1,
+              "Y": 0.075
+            },
+            "LeftMargin": 47.3673,
+            "RightMargin": 816.6328,
+            "TopMargin": 470.2111,
+            "BottomMargin": 121.789,
+            "Tag": 9,
+            "ActionTag": 1137038059,
+            "Size": {
+              "X": 96.0,
+              "Y": 48.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "密码",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4713,
+              "ScaleY": 0.45
+            },
+            "Position": {
+              "X": 239.9997,
+              "Y": 141.0
+            },
+            "Scale": {
+              "ScaleX": 1.7967,
+              "ScaleY": 1.4444
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.25,
+              "Y": 0.2203
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0312
+            },
+            "LeftMargin": 192.8727,
+            "RightMargin": 667.1273,
+            "TopMargin": 488.0,
+            "BottomMargin": 132.0,
+            "Tag": 10,
+            "ActionTag": -369094936,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "TextField_4",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bg_window.png",
+        "btn_normal.png",
+        "btn_normal1.png",
+        "btn_press.png",
+        "Default/Button_Disable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
